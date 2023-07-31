@@ -11,6 +11,7 @@ public class A {
     static void sfunc(int x,int y){
         System.out.println(x+y);
         System.out.println(st);
+//        System.out.println(this.nst); cannot call
 
 
     }
